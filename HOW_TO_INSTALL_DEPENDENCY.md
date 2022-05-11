@@ -29,8 +29,21 @@ https://github.com/ninja-build/ninja/releases
 ## Library
 ### Zlib and LibPNG
 https://sourceforge.net/projects/libpng/files/
+
+### LibLZMA
+https://github.com/roboticslibrary/xz
+
 ### FreeType
 https://download.savannah.gnu.org/releases/freetype/
+
 ### Harfbuzz
+https://github.com/harfbuzz/harfbuzz/releases
+
 ### OpenSSL
+https://www.openssl.org/source/
+
 ### ICU
+https://github.com/unicode-org/icu/releases/
+
+### Assimp
+https://github.com/assimp/assimp/releases
