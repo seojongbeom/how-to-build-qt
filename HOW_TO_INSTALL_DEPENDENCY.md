@@ -1,6 +1,10 @@
+# HOW TO INSTALL DEPENDENCY (TOOL AND LIBRARY)
 ## TOOLS
 ### INSTALL VISUAL STUDIO
 https://visualstudio.microsoft.com/downloads/
+
+### Git Client
+https://git-scm.com/download/win
 
 ### MINGW64
 https://download.qt.io/development_releases/prebuilt/mingw_64/
@@ -47,3 +51,11 @@ https://github.com/unicode-org/icu/releases/
 
 ### Assimp
 https://github.com/assimp/assimp/releases
+
+### libANGLE
+```bash
+gn gen out\\Release --args="is_official_build=true chrome_pgo_phase=0 is_component_build=false"
+```
+
+## INSTALL TOOLS
+### MSVC2019
