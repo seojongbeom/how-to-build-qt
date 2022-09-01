@@ -1,0 +1,1 @@
+configure -debug-and-release -static -static-runtime -no-compile-examples -qt-libpng -qt-libjpeg -qt-tiff -qt-webp -opensource -confirm-license -prefix c:\Qt\5.12.12\msvc2019_64-static -v OPENSSL_PREFIX=C:\Qt\Tools\OpenSSL\Win_x64
